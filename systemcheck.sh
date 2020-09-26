@@ -10,8 +10,8 @@
 # ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝
 
 # Clone: https://github.com/alexxdevv/systemscripts.git
-
 #!/bin/bash
+
 clear 
 echo 
 echo ████████████  ¡Welcome to SystemCHECK!  ████████████
