@@ -9,7 +9,7 @@
 # ███████║   ██║   ███████║   ██║   ███████╗██║ ╚═╝ ██║╚██████╗██║  ██║███████╗╚██████╗██║  ██╗
 # ╚══════╝   ╚═╝   ╚══════╝   ╚═╝   ╚══════╝╚═╝     ╚═╝ ╚═════╝╚═╝  ╚═╝╚══════╝ ╚═════╝╚═╝  ╚═╝
 
-# Clone repository with https://github.com/alexxdevv/systemcheck.git
+# Clone: https://github.com/alexxdevv/systemscripts.git
 
 #!/bin/bash
 clear 
