@@ -15,7 +15,7 @@
 clear 
 echo 
 echo ████████████  ¡Welcome to SystemCHECK!  ████████████
-printf "    \e[1;77m\e[41m  Tool developed by @alexxdevv  \e[0m\n"
+printf "        \e[1;77m\e[41m  Tool developed by @alexxdevv  \e[0m\n"
 echo "      Today is $(date)"
 echo 
 echo Please, wait 5 seconds while this tool check your system.
