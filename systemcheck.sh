@@ -18,9 +18,9 @@ echo ████████████  ¡Welcome to SystemCHECK!  ███�
 printf "\e[1;77m\e[41m  Tool developed by @alexxdevv  \e[0m\n"
 echo "      Today is $(date)"
 echo 
-echo Please, wait 6 seconds while this tool check your system.
+echo Please, wait 5 seconds while this tool check your system.
 echo
-sleep 6
+sleep 5
 clear
 echo ████████████  SystemCHECK  ████████████
 echo
