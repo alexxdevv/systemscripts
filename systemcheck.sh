@@ -35,8 +35,8 @@ echo "->  Disk: $(df -h --total | grep "total" | cut -c 17-21)B"
 echo
 echo
 echo
-read -p "All right, finally press enter to exit"
+read -p "Finally press enter to exit"
 clear
-echo Bye!
+echo See you!
 sleep 2
 clear
