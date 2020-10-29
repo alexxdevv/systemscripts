@@ -10,7 +10,7 @@ clear
 echo 
 printf "        \e[1;77m\e[41m Today is: \e[0m\n"
 echo
-echo "      $(date)"
+echo "    $(date)"
 echo
 echo
 echo
