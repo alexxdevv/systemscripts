@@ -1,20 +1,16 @@
-Paper [![Build Status](https://papermc.io/ci/job/Paper-1.16/badge/icon)](https://papermc.io/ci/job/Paper-1.16/)
+SystemScripts [![Build Status](https://papermc.io/ci/job/Paper-1.16/badge/icon)](https://papermc.io/ci/job/Paper-1.16/)
 ===========
 
-High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies.
+Many scripts to check various functionalities of your linux system!
 
 
-**Support and Project Discussion:**
- - [IRC](https://irc.spi.gt/iris/?channels=paper) or [Discord](https://discord.gg/papermc)
-
-
-How To (Server Admins)
+How To (Developers)
 ------
-Paperclip is a jar file that you can download and run just like a normal jar file.
+All scripts is open sources, you can download and edit if you want.
 
-Download Paper from our [downloads page](https://papermc.io/downloads).
+Clone this repository [like this](https://github.com/alexxdevv/systemscripts.git).
 
-Run the Paperclip jar directly from your server. Just like old times
+Run this repository on Ubuntu, Debian and derivatives, although it may work on other distributions but it's optimized for it.
 
-  * Documentation on using Paper: [paper.readthedocs.io](https://paper.readthedocs.io/)
-  * For a sneak peak on upcoming features, [see here](https://github.com/PaperMC/Paper/projects)
+  * Thanks for your download!
+  * If you wish you can donate here:
