@@ -1,4 +1,4 @@
-SystemScripts [![Build Status](https://github.com/alexxdevv/systemscripts.git)
+SystemScripts
 ===========
 
 Many scripts to check various functionalities of your linux system!
