@@ -1,4 +1,4 @@
-SystemScripts [![Build Status](https://papermc.io/ci/job/Paper-1.16/badge/icon)](https://papermc.io/ci/job/Paper-1.16/)
+SystemScripts [![Build Status](https://github.com/alexxdevv/systemscripts.git)
 ===========
 
 Many scripts to check various functionalities of your linux system!
